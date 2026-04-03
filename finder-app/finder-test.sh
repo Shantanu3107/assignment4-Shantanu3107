@@ -2,9 +2,12 @@
 # Tester script for assignment 1 and assignment 2
 # Author: Siddhant Jajoo
 
+<<<<<<< HEAD
 make clean
 make
 
+=======
+>>>>>>> assignments-base/assignment3-part-1
 set -e
 set -u
 
