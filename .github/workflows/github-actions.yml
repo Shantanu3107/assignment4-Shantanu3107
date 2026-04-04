@@ -20,7 +20,6 @@ jobs:
             run: ./unit-test.sh
     full-test:
         container: cuaesd/aesd-autotest:assignment3
-=======
     full-test:
         container: cuaesd/aesd-autotest:24-assignment3
         runs-on: self-hosted
